@@ -11,4 +11,4 @@ node_modules/
 
 # Archivos de datos gigantes
 *.sqlite
-backend/data/raw/
+es.txt
