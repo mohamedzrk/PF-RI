@@ -1,0 +1,14 @@
+# Ignorar venv esté donde esté
+venv/
+/venv/
+
+# Python basura
+__pycache__/
+*.pyc
+
+# Node basura
+node_modules/
+
+# Archivos de datos gigantes
+*.sqlite
+backend/data/raw/
