@@ -15,7 +15,7 @@ Los objetivos a cumplir en esta práctica han sido:
 - Implementar un flujo de trabajo que incluya análisis léxico, normalización, tokenización mediante expresiones regulares, filtrado de stopwords y lematización.
 - Aplicar la ponderación **TF-IDF** y el cálculo de la **Similitud del Coseno** para garantizar que los resultados recuperados sean los más afines a la intención de búsqueda del usuario.
 
-## Dataset
+## Corpus
 
 He usado el subconjunto monolingüe en español del corpus **CC-100** (Monolingual Datasets from Web Crawl Data). Este corpus fue creado con el propósito de recrear el conjunto de datos necesario para el entrenamiento del modelo de lenguaje a gran escala XLM-R.
 
