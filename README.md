@@ -37,7 +37,7 @@ cd backend
 **Instalación de dependencias:**
 
 
-#  Instalar librerías
+## Instalar librerías
 ```bash
 pip install -r requirements.txt
 ```
